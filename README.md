@@ -1,4 +1,4 @@
-###INTRODUCTION
+###INTRODUCTION###
 
 Bright Coffee has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance.
 Intention is to provide actionable insights from historical data in the form of a presentation to assist the CEO in decision-making.
