@@ -22,13 +22,13 @@ Monday strongest day
 
 ## Processed follow
 1.DATA DIGESTION-Upload csv file to snowflake
---------------------------------------
+
 2.DATA PROCESSING-Code in SQL on SNOWFLAKE
----------
+
 3.EXPORT PROCESSED DATA-Export data to excel for analysis
------------
+
 4.CREATE PRESENTATION-Create presntation on snow flake with detailed insights
--------------
+
 5.PROJECT DOCUMENTATION-Store all files on GITHUB.
 
 
