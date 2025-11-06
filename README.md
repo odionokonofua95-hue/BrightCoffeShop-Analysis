@@ -8,11 +8,11 @@ Intention is to provide actionable insights from historical data in the form of 
 To Provide data-driven insight into product performance, customer buying behaviour, and store operations to support decision-making for revenue growth.
 
 ## Tools utilized
--SQL (Standard)
--Snowflake Cloud Platform
--MS Excel
--Miro
--Canva
+* SQL (Standard)
+* Snowflake Cloud Platform
+* MS Excel
+* Miro
+* Canva
 
 ## Key insights
 1. Chai Tea leads revenue
