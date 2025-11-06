@@ -22,7 +22,7 @@ To Provide data-driven insight into product performance, customer buying behavio
 5. Hell’s Kitchen drives most sales
 6. Monday strongest day
 
-## Processed follow
+## Processed followed
 1.Data Digestion
 -Upload csv file to snowflake
 
