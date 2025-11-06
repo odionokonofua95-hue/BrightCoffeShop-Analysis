@@ -8,27 +8,34 @@ Intention is to provide actionable insights from historical data in the form of 
 To Provide data-driven insight into product performance, customer buying behaviour, and store operations to support decision-making for revenue growth.
 
 ## Tools utilized
-SQL (Standard)
-Snowflake Cloud Platform
-MS Excel
+-SQL (Standard)
+-Snowflake Cloud Platform
+-MS Excel
+-Miro
+-Canva
 
 ## Key insights
-Chai Tea leads revenue
-Coffee is most popular category
-Morning is peak sales time
-Evenings underperform
-Hell’s Kitchen drives most sales
-Monday strongest day
+1. Chai Tea leads revenue
+2. Coffee is most popular category
+3. Morning is peak sales time
+4. Evenings underperform
+5. Hell’s Kitchen drives most sales
+6. Monday strongest day
 
 ## Processed follow
-1.DATA DIGESTION-Upload csv file to snowflake
+1.Data Digestion
+-Upload csv file to snowflake
 
-2.DATA PROCESSING-Code in SQL on SNOWFLAKE
+2.Data Processing
+-Code in SQL on SNOWFLAKE
 
-3.EXPORT PROCESSED DATA-Export data to excel for analysis
+3.Export Processed Data
+-Export data to excel for analysis
 
-4.CREATE PRESENTATION-Create presntation on snow flake with detailed insights
+4.Create Presentation
+-Create presntation on snow flake with detailed insights
 
-5.PROJECT DOCUMENTATION-Store all files on GITHUB.
+5.Project documentation
+-Store all files on GITHUB.
 
 
